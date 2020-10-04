@@ -2,8 +2,8 @@
 
 # Chat-App 💬💌
 
-![](https://img.shields.io/badge/BUILT%20WITH-KOTLIN-red)
-![](https://img.shields.io/github/stars/Shourya-singh/7-Minutes-Workout?style=plastic)
+![](https://img.shields.io/badge/BUILT%20WITH-FLUTTER-cyan)
+![](https://img.shields.io/github/stars/Shourya-singh/Flash_chat?style=plastic)
 ![](https://img.shields.io/github/license/Shourya-singh/7-Minutes-Workout?style=plastic)
 ![](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-success)
 
